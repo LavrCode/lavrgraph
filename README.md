@@ -114,7 +114,7 @@ npm run build
 
 ## Автор
 
-- Разработано с ❤️ [https://lavrcode.t.me/][LavrCode]
+- Разработано с ❤️ [LavrCode](https://lavrcode.t.me/)
 
 ## Лицензия
 
